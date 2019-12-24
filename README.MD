@@ -9,3 +9,6 @@ This application build base on tutorial in [socket.io](https://socket.io/get-sta
 **Open project file directory in Terminal / CMD**
 * npm install
 * node index / nodemon index
+  
+## Author
+* [Bangsyirr](https://instagram.com/bangsyirr) --> Instagram
